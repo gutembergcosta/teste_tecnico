@@ -1,0 +1,15 @@
+#tabela tr td, #tabela tr th{
+    text-align: center;
+}
+
+#tabela .nome-time{ text-align: left;}
+#tabela i {color: #28a128;}
+.nome-time span{font-weight: bold; color: forestgreen;}
+.modal-dialog {max-width: 700px;}
+
+#confronto .form-group{display: flex}
+#confronto select{width: calc(75% - 15px);}
+#confronto input{width: 25%}
+
+.area-placar{width: 45%}
+.area-versus{width: 10%; position: relative; top: 36px;}
