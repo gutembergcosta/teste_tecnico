@@ -152,7 +152,7 @@
 							$('#confronto input').val(0);
 							$('#confronto select').prop('selectedIndex',0);
 
-						
+							$("#modalJogo").modal('hide');
 
 						}
 						
